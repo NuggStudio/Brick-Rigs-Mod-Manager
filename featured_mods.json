@@ -1,67 +1,21 @@
 {
   "featuredMods": [
     {
-      "name": "Vanilla Content Expansion",
-      "author": "KV Productions",
-      "version": "1.0.2",
-      "shortDescription": "More Vanilla-Style Content",
-      "description": "This mod adds a variety of new vanilla-style content to Brick Rigs, including new bricks, weapons, and vehicles that fit seamlessly with the base game's aesthetic. Experience enhanced gameplay with carefully crafted additions that maintain the original game's charm while expanding your creative possibilities.",
-      "imageUrl": "https://i.imgur.com/VCE_thumbnail.png",
-      "logoUrl": "https://i.imgur.com/VCE_logo.png", 
-      "bannerUrl": "https://i.imgur.com/VCE_banner.png",
+      "name": "Featured Mods Coming soon!",
+      "author": "NStudio",
+      "version": "1.0.0",
+      "shortDescription": "...",
+      "description": "Soon, tons of mods will show up here free to download. Many options like Vanilla expanded and YorkDale will be published here!",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png", 
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "downloadUrl": "https://github.com/modauthor/VanillaContentExpansion/releases/download/v1.0.2/VanillaContentExpansion.zip",
       "features": [
-        "50+ new brick types and colors",
-        "Advanced weapon systems with realistic ballistics",
-        "Enhanced vehicle parts including engines and transmissions",
-        "Vanilla-style aesthetics that blend seamlessly",
-        "Full multiplayer compatibility"
+        "Downloadable featured mods!"
       ],
-      "category": "Content",
-      "downloads": 2847,
-      "rating": 4.9
-    },
-    {
-      "name": "Advanced Physics Engine",
-      "author": "PhysicsMaster",
-      "version": "2.3.1",
-      "shortDescription": "Enhanced physics simulation",
-      "description": "Revolutionize your Brick Rigs experience with this comprehensive physics overhaul. Featuring realistic collision detection, improved vehicle dynamics, and spectacular destruction effects that bring your creations to life like never before.",
-      "imageUrl": "https://i.imgur.com/APE_thumbnail.png",
-      "logoUrl": "https://i.imgur.com/APE_logo.png",
-      "bannerUrl": "https://i.imgur.com/APE_banner.png", 
-      "downloadUrl": "https://github.com/modauthor/AdvancedPhysics/releases/download/v2.3.1/AdvancedPhysics.zip",
-      "features": [
-        "Realistic collision detection and response",
-        "Improved vehicle suspension and handling",
-        "Enhanced destruction with debris physics",
-        "Better water and fluid dynamics",
-        "Optimized performance for large builds"
-      ],
-      "category": "Gameplay",
-      "downloads": 1923,
-      "rating": 4.7
-    },
-    {
-      "name": "Military Arsenal Pack",
-      "author": "TacticalMods",
-      "version": "1.5.0",
-      "shortDescription": "Military vehicles and weapons",
-      "description": "Deploy into battle with this comprehensive military mod featuring authentic vehicles, weapons, and equipment. From tanks and helicopters to advanced weaponry, dominate the battlefield with realistic military hardware.",
-      "imageUrl": "https://i.imgur.com/MAP_thumbnail.png",
-      "logoUrl": "https://i.imgur.com/MAP_logo.png",
-      "bannerUrl": "https://i.imgur.com/MAP_banner.png",
-      "downloadUrl": "https://github.com/modauthor/MilitaryPack/releases/download/v1.5.0/MilitaryArsenal.zip",
-      "features": [
-        "20+ military vehicles including tanks and aircraft",
-        "Advanced weapon systems with realistic damage",
-        "Military-grade armor and protection systems",
-        "Authentic sound effects and visual effects",
-        "Campaign missions and scenarios"
-      ],
-      "category": "Military",
-      "downloads": 3156,
-      "rating": 4.8
+      "category": "Teaser",
+      "downloads": 0,
+      "rating": 5
     }
   ]
 }
