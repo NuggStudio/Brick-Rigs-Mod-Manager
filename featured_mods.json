@@ -24,7 +24,7 @@
       "shortDescription": "Known as KCE, Weapons mod.",
       "description": "I will be beginning the development of being able to download folder mods and pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are not a thing because i cant host a update server due to my wifi having a dynamic ip instead of a static ip",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "downloadUrl": "https://github.com/modauthor/VanillaContentExpansion/releases/download/v1.0.2/VanillaContentExpansion.zip",
       "features": [
