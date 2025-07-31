@@ -1,21 +1,38 @@
 {
   "featuredMods": [
     {
-      "name": "Featured Mods Coming soon!",
+      "name": "Whats New?",
       "author": "NStudio",
-      "version": "1.0.0",
-      "shortDescription": "...",
-      "description": "Soon, tons of mods will show up here free to download. Many options like Vanilla expanded and YorkDale will be published here!",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png", 
+      "version": "1.0.13.0AT",
+      "shortDescription": "Soon to come features",
+      "description": "I will be beginning the development of being able to download folder mods and pak mods and also being able to import said pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are not a thing because i cant host a update server due to my wifi having a dynamic ip instead of a static ip",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "downloadUrl": "https://github.com/modauthor/VanillaContentExpansion/releases/download/v1.0.2/VanillaContentExpansion.zip",
       "features": [
-        "Downloadable featured mods!"
+        "News"
       ],
       "category": "Teaser",
       "downloads": 0,
       "rating": 5
+    },
+    {
+      "name": "VanillaContentExpansion",
+      "author": "KV Productions",
+      "version": "1.0",
+      "shortDescription": "Known as KCE, Weapons mod.",
+      "description": "I will be beginning the development of being able to download folder mods and pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are not a thing because i cant host a update server due to my wifi having a dynamic ip instead of a static ip",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
+      "downloadUrl": "https://github.com/modauthor/VanillaContentExpansion/releases/download/v1.0.2/VanillaContentExpansion.zip",
+      "features": [
+        "FolderMod"
+      ],
+      "category": "FolderMods",
+      "downloads": 0,
+      "rating": 0
     }
   ]
 }
