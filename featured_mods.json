@@ -6,7 +6,7 @@
       "version": "1.0.13.0AT",
       "shortDescription": "Soon to come features",
       "description": "I will be beginning the development of being able to download folder mods and pak mods and also being able to import said pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are not a thing because i cant host a update server due to my wifi having a dynamic ip instead of a static ip",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "downloadUrl": "https://github.com/modauthor/VanillaContentExpansion/releases/download/v1.0.2/VanillaContentExpansion.zip",
@@ -26,7 +26,7 @@
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "downloadUrl": "https://www.dropbox.com/scl/fi/crhdwoerxscp28zr0ufgb/VanillaContentExpansion.zip?rlkey=z2qvb4pob7dn6krpprb7azp74&st=xfmf7yyz&dl=0",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/crhdwoerxscp28zr0ufgb/VanillaContentExpansion.zip?rlkey=z2qvb4pob7dn6krpprb7azp74&st=xfmf7yyz&dl=1",
       "features": [
         "FolderMod"
       ],
