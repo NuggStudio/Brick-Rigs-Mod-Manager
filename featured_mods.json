@@ -26,49 +26,13 @@
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "downloadUrl": "https://l.station307.com/7Z4J8qmWcr5j1J2aQcuVcd/VanillaContentExpansion.zip",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1PqPnRYLf_tTAbgvdkxkEHrexKbiM5vzZ?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
         "FolderMod"
       ],
       "category": "Weapons & Combat",
       "downloads": 0,
       "rating": 0
-    },
-    {
-      "name": "Advanced Vehicle Pack",
-      "author": "BrickMaster",
-      "version": "2.1",
-      "shortDescription": "Collection of high-performance vehicles",
-      "description": "This mod adds 15 new high-performance vehicles to the game, including sports cars, off-road vehicles, and military transports. Each vehicle is fully customizable and features realistic physics.",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "downloadUrl": "",
-      "features": [
-        "Vehicles",
-        "FolderMod"
-      ],
-      "category": "Vehicles",
-      "downloads": 0,
-      "rating": 4
-    },
-    {
-      "name": "Building Tools Expansion",
-      "author": "ConstructionCrew",
-      "version": "1.5",
-      "shortDescription": "Enhanced building tools and components",
-      "description": "Expands the building system with new tools, components, and quality-of-life improvements. Features include advanced snapping options, mirroring tools, and new structural elements.",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "downloadUrl": "",
-      "features": [
-        "Building",
-        "Tools"
-      ],
-      "category": "Tools & Utilities",
-      "downloads": 0,
-      "rating": 5
     }
   ]
 }
