@@ -5,7 +5,7 @@
       "author": "NStudio",
       "version": "1.0.15.0AT",
       "shortDescription": "Soon to come features",
-      "description": "I will be beginning the development of being able to download folder mods and pak mods and also being able to import said pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are not a thing because i cant host a update server due to my wifi having a dynamic ip instead of a static ip",
+      "description": "I will be beginning the development of being able to download folder mods and pak mods and also being able to import said pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are in the works! ModPacks are also in the works to be supported, so in the meantime you will have to manually download and extract and run it, I promise a installer with be released when automatic updates come out",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
@@ -23,9 +23,9 @@
       "version": "1.0",
       "shortDescription": "Known as KCE, Weapons mod.",
       "description": "Description to be made",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1PqPnRYLf_tTAbgvdkxkEHrexKbiM5vzZ?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
         "FolderMod"
@@ -41,7 +41,7 @@
       "shortDescription": "Very recent mod, might only work for 1.6",
       "description": "Description to be made",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1QlGQICYl3KJlWPfYPzFAH4y1VoxTTncd?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
@@ -58,7 +58,7 @@
       "shortDescription": "Pak Mod Testing",
       "description": "Pak Mod Testing, Downloads ww2 tracers, Credits go to their respective owners.",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1gy51YiIMnJt7PXq27rnkbOxskGzCMM-J?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
@@ -76,7 +76,7 @@
       "shortDescription": "Pak Mod Testing, Downloads ww2 tracers, Credits go to their respective owners.",
       "description": "Description to be made",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1JtOsK_Q2KMWxDJfl2J4sRLJnlEypXaYr?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
