@@ -1,0 +1,14 @@
+{
+  "version": "1.0.18.0",
+  "releaseDate": "2025-08-05",
+  "downloadUrl": "https://example.com/BrickRigsModManager_1.0.18.0.zip",
+  "directDownloadUrl": "https://direct.example.com/BrickRigsModManager_1.0.18.0.zip",
+  "whatsNew": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "minRequiredVersion": "1.0.17.0",
+  "isCriticalUpdate": false
+}
