@@ -4,10 +4,9 @@
   "downloadUrl": "https://example.com/BrickRigsModManager_1.0.18.0.zip",
   "directDownloadUrl": "https://direct.example.com/BrickRigsModManager_1.0.18.0.zip",
   "whatsNew": [
-    "",
-    "",
-    "",
-    ""
+    "This is a test update.",
+    "This is where your updates will be downloaded",
+    "This will also fail to download if you try"
   ],
   "minRequiredVersion": "1.0.17.0",
   "isCriticalUpdate": false
