@@ -1,12 +1,13 @@
 {
   "version": "1.0.18.0",
   "releaseDate": "2025-08-05",
-  "downloadUrl": "https://example.com/BrickRigsModManager_1.0.18.0.zip",
-  "directDownloadUrl": "https://direct.example.com/BrickRigsModManager_1.0.18.0.zip",
+  "downloadUrl": "https://www.googleapis.com/drive/v3/files/15jMl1V5Ze8FG3rs284gkHft8dP8znndU?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/15jMl1V5Ze8FG3rs284gkHft8dP8znndU?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
   "whatsNew": [
     "This is a test update.",
     "This is where your updates will be downloaded",
-    "This will also fail to download if you try"
+    "This also might fail to download if you try",
+    "Or i laterally just put anything here, btw thats what my vs code put there, very clever"
   ],
   "minRequiredVersion": "1.0.17.0",
   "isCriticalUpdate": false
