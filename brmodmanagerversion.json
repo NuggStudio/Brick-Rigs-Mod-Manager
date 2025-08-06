@@ -1,8 +1,8 @@
 {
-  "version": "1.0.18.0",
+  "version": "1.0.18.0 (you wish)",
   "releaseDate": "2025-08-05",
-  "downloadUrl": "https://www.googleapis.com/drive/v3/files/15jMl1V5Ze8FG3rs284gkHft8dP8znndU?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
-  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/15jMl1V5Ze8FG3rs284gkHft8dP8znndU?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "downloadUrl": "https://www.googleapis.com/drive/v3/files/1iaHniHPYfNuwmc8O6gWKoySbkaEKp2Qa?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/1iaHniHPYfNuwmc8O6gWKoySbkaEKp2Qa?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
   "whatsNew": [
     "This is a test update.",
     "This is where your updates will be downloaded",
