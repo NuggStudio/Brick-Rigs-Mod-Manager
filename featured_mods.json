@@ -33,59 +33,6 @@
       "category": "Weapons & Combat",
       "downloads": 0,
       "rating": 0
-    },
-    {
-      "name": "TrenchWar",
-      "author": "KV Productions",
-      "version": "1.0",
-      "shortDescription": "Very recent mod, might only work for 1.6",
-      "description": "Description to be made",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1QlGQICYl3KJlWPfYPzFAH4y1VoxTTncd?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
-      "features": [
-        "FolderMod"
-      ],
-      "category": "Weapons & Combat",
-      "downloads": 0,
-      "rating": 0
-    },
-    {
-      "name": "PakBundleDownloadTest",
-      "author": "Unknown",
-      "version": "1.0",
-      "shortDescription": "Pak Mod Testing",
-      "description": "Pak Mod Testing, Downloads ww2 tracers, Credits go to their respective owners.",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1gy51YiIMnJt7PXq27rnkbOxskGzCMM-J?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
-      "features": [
-        "FolderMod"
-      ],
-      "category": "Weapons & Combat",
-      "downloads": 0,
-      "downloads": 0,
-      "rating": 0
-    },
-    {
-      "name": "PakDownloadTest",
-      "author": "Unknown",
-      "version": "1.0",
-      "shortDescription": "Pak Mod Testing, Downloads ww2 tracers, Credits go to their respective owners.",
-      "description": "Description to be made",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/trenchwarbanner.png",
-      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1JtOsK_Q2KMWxDJfl2J4sRLJnlEypXaYr?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
-      "features": [
-        "FolderMod"
-      ],
-      "category": "Weapons & Combat",
-      "downloads": 0,
-      "downloads": 0,
-      "rating": 0
     }
   ]
 }
