@@ -3,9 +3,9 @@
     {
       "name": "Whats New?",
       "author": "NStudio",
-      "version": "1.0.16.0AT",
+      "version": "1.0.17.0AT",
       "shortDescription": "Soon to come features",
-      "description": "I will be beginning the development of being able to download folder mods and pak mods and also being able to import said pak mods very soon, and if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are in the works! ModPacks are also in the works to be supported, so in the meantime you will have to manually download and extract and run it, I promise a installer with be released when automatic updates come out",
+      "description": "Development is going somewhat smooth and as of the time writing this it is 3:54AM. Almost everything is written for this mod manager but if you reading this.. Congrats! You own some of the first copies of Brick Rigs Mod Manager! Great things are coming your way. As of right now Automatic Updates are now here! ModPacks are also in the works to be supported, i have no idea if it works lmao it might.",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/logo.png",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/banner.png",
