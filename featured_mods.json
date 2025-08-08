@@ -36,13 +36,13 @@
     },
     {
       "name": "Combat Extended Mod (1.6)",
-      "author": "KV Productions",
+      "author": "Bondrewd",
       "version": "1.0",
-      "shortDescription": "Known as KCE, Weapons mod.",
-      "description": "Description to be made",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatextendedpreview.png.png",
+      "shortDescription": "Adds new content for pvp and military",
+      "description": "Description to be made, rights go to their respective owners",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatextendedpreview.png",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatextendedpreview.png.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatextendedpreview.png",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1ff2pDzHhDIr28UlcsYDA7xY5LZqSDcqT?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
         "FolderMod"
