@@ -23,9 +23,9 @@
       "version": "1.0",
       "shortDescription": "Known as KCE, Weapons mod.",
       "description": "Description to be made",
-      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/vcebanner.png",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/vcebanner.jpg",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
-      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/vcebanner.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/vcebanner.jpg",
       "downloadUrl": "https://www.googleapis.com/drive/v3/files/1PqPnRYLf_tTAbgvdkxkEHrexKbiM5vzZ?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
       "features": [
         "FolderMod"
