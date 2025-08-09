@@ -50,6 +50,23 @@
       "category": "Weapons & Combat",
       "downloads": 0,
       "rating": 0
+    },
+    {
+      "name": "Squad Sound Pack",
+      "author": "@.re1axxx (discord)",
+      "version": "2.0.1",
+      "shortDescription": "Adds new sound content for multiple things",
+      "description": "Adds new sounds for brick rigs such as weapons or even the footsteps, rights go to their respective owners",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/11JwMhbVgtpRO5DBZfLAus8MOK5hI3smt?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+      "features": [
+        "PakMod"
+      ],
+      "category": "Sounds",
+      "downloads": 0,
+      "rating": 0
     }
   ]
 }
