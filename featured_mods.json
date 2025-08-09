@@ -84,6 +84,23 @@
       "category": "Tools",
       "downloads": 0,
       "rating": 0
+    },
+    {
+      "name": "Remastered Skys 3",
+      "author": "Andi_pog",
+      "version": "1.0",
+      "shortDescription": "Adds a realistic looking weather",
+      "description": "Andi_pog's Remastered Skys 3 really is just a beautiful mod, rights go to their respective owners",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/remasteredskysimage.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/remasteredskysbanner.png",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1q9kPei3Eni7erh01ZxhoZc-NiDBN9Lbs?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+      "features": [
+        "FolderMod"
+      ],
+      "category": "Textures/Shaders",
+      "downloads": 0,
+      "rating": 0
     }
   ]
 }
