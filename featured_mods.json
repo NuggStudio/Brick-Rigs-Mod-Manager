@@ -67,6 +67,23 @@
       "category": "Sounds",
       "downloads": 0,
       "rating": 0
+    },
+    {
+      "name": "Physics gun",
+      "author": "Ashik",
+      "version": "1.0",
+      "shortDescription": "Adds a physics gun.",
+      "description": "Physics gun, what else is there about it? it is supposedly janky even though in testing it worked just fine, rights go to their respective owners",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/physicsgunbanner.JPG",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/physicsgunbanner.JPG",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/11JwMhbVgtpRO5DBZfLAus8MOK5hI3smt?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+      "features": [
+        "FolderMod"
+      ],
+      "category": "Tools",
+      "downloads": 0,
+      "rating": 0
     }
   ]
 }
