@@ -1,14 +1,15 @@
 {
-  "version": "1.0.18.0",
-  "releaseDate": "2025-08-12",
-  "downloadUrl": "https://www.googleapis.com/drive/v3/files/1t2Sbxi976D0qxujpJ7KICGeyFEROgUFO?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
-  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/1t2Sbxi976D0qxujpJ7KICGeyFEROgUFO?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "version": "1.0.18.1",
+  "releaseDate": "2025-08-16",
+  "downloadUrl": "https://www.googleapis.com/drive/v3/files/1xtzrQmqAUC5muOWNqvN6UCRsm6QK0HhT?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/1xtzrQmqAUC5muOWNqvN6UCRsm6QK0HhT?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
   "whatsNew": [
-    "Finally i get to test out the auto update feature.",
-    "New Themes to add some sort of personality to the mod manager",
-    "Added UI Changes and Fixes",
-    "Mod Pack Support",
-    "Hope you guys enjoy!"
+    "Changed the pink color",
+    "Added Bright red color",
+    "Added a BrickRigs Start Button",
+    "Added a discord join button in settings",
+    "Changed Button highlighting for the sidebar",
+    "Added Multi-download Support"
   ],
   "minRequiredVersion": "1.0.17.0",
   "isCriticalUpdate": false
