@@ -118,6 +118,23 @@
       "category": "Textures/Shaders",
       "downloads": 0,
       "rating": 0
+    },
+    {
+      "name": "YorkDale",
+      "author": "goobom,erte",
+      "version": "U1 Remaster (1.8)",
+      "shortDescription": "Adds a new map",
+      "description": "This adds a huge new map for RP, Racing, Building, and Fighting. ( copy and pasted from the forum post) has best city in br, rolling countryside, 3 railways, huge airport, lots of forest, cornfields, engine brick, brick texture, fluppism, super sick offroad course with mud, abandoned locations, realistic freeway, RP gamemode, ambiance, shit ton of easter eggs (including auditory), epic sick bridges. rights go to their respective owners",
+      "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/placeholder.png",
+      "downloadUrl": "https://www.googleapis.com/drive/v3/files/1Vo4y_MM7GT5SnXJdScap_Yx-hm92iV72?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+      "features": [
+        "FolderMod"
+      ],
+      "category": "Maps",
+      "downloads": 0,
+      "rating": 0
     }
   ]
 }
