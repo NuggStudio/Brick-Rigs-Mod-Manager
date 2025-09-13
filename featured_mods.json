@@ -141,17 +141,7 @@
       "author": "Bondred",
       "version": "1.0",
       "shortDescription": "Adds a combat advanced related things",
-      "description": "Small FAQ:
-1) missiles detach: we changed attachment points for missiles, just attack them back
-2) cameras not working: you must use special "monitor cameras" and they should be same channel as monitor itself
-3) "you are not allowed to upload creations with modded bricks": built in brick rigs workshop protection, we cant do anything with it (however there is bypass)
-4) how to use fov sensors?: guide for all sensors and other advances mechanics will be made later
-5) some items doesnt appear: br supports only 253 inventory items in total, you have many mods installed which result more than 253 items. Remove some other mods
-6) cant unpack: standart windows archiver cant operate with rar files, download 7zip or WinRAR
-7) cant download from google drive: wait or download from yandex drive
-8) yandex drive says "download limit exceeded": you can make own yandex disc account and click "save to my disc"
-9) how to use bipod: sadly its deco only
-10) do I need old combat advanced?: no you dont. Delete old one. rights go to their respective owners",
+      "description": "A very highly requested mod, see the forum for this mod in the official Brick Rigs server for FAQ. rights go to their respective owners",
       "imageUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatadvancedbanner.jpg",
       "logoUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatadvancedicon.jpg",
       "bannerUrl": "https://raw.githubusercontent.com/NuggStudio/Brick-Rigs-Mod-Manager/refs/heads/main/combatadvancedbanner.jpg",
@@ -159,7 +149,7 @@
       "features": [
         "FolderMod"
       ],
-      "category": "Maps",
+      "category": "Weapons & Combat",
       "downloads": 0,
       "rating": 0
     }
