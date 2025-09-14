@@ -1,8 +1,8 @@
 {
   "version": "1.0.19.0",
   "releaseDate": "2025-09-10",
-  "downloadUrl": "https://www.googleapis.com/drive/v3/files/1K5-Ia1Hry1d1upLz75c7FvQ-SKJA2X7k?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
-  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/1K5-Ia1Hry1d1upLz75c7FvQ-SKJA2X7k?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "downloadUrl": "https://www.googleapis.com/drive/v3/files/1M0O-Yz6M0w3eTD2bGE7Lqy0Qr2T24yNE?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
+  "directDownloadUrl": "https://www.googleapis.com/drive/v3/files/1M0O-Yz6M0w3eTD2bGE7Lqy0Qr2T24yNE?alt=media&key=AIzaSyDMLqIGPDrXkRdgNtpLkfZNg9vWnNtlLoc",
   "whatsNew": [
     "Added Experimental Mod Syncing",
     "Added Experimental Brick Rigs version degrading/upgrading",
@@ -13,3 +13,4 @@
   "minRequiredVersion": "1.0.17.0",
   "isCriticalUpdate": false
 }
+
